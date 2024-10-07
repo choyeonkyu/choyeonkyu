@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<h2><strong>Work Experience</strong></h2>h<br>
+<h2><strong>Work Experience</strong></h2><br>
 Logistics Network Laboratory - Research Assistant(1yr) <br>
 Samsung Electronics Logitech - Digital Innovation Group Intern(1mo)<br>
 I'm currently learning data engineering in dev course by 'Programmers'<br>
