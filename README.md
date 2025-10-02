@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 # 💫 About Me:
 <h2><strong>Work Experience</strong></h2><br>
 🔭 I’m currently working on ML Engineer in Samsung Electronics Logitech (25.01 ~)
-Logistics Network Laboratory - Research Assistant(23.08 ~ 24.07 (1yr)) <br>
-Samsung Electronics Logitech - Digital Innovation Group Intern(24.07 ~ 24.08(1mon))<br>
-I've learned data engineering in dev course by 'Programmers'(24.09 ~ 24.12 (3mon))<br>
+👯 Logistics Network Laboratory - Research Assistant(23.08 ~ 24.07 (1yr)) <br>
+🔭Samsung Electronics Logitech - Digital Innovation Group Intern(24.07 ~ 24.08(1mon))<br>
+🌱I've learned data engineering in dev course by 'Programmers'(24.09 ~ 24.12 (3mon))<br>
 
 
 ## 🌐 Socials:
